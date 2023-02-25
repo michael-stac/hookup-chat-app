@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>451158197612-ac8oj631fddc680ogu2tfsq508t611jn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.451158197612-ac8oj631fddc680ogu2tfsq508t611jn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEhqkOB5mW7spnZ6GE6p_12IyRh4GN1AE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>451158197612</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hookUp</string>
+	<key>PROJECT_ID</key>
+	<string>hookup-chat-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hookup-chat-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:451158197612:ios:7de53a0d7675ec73969f49</string>
+</dict>
+</plist>

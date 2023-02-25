@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451158197612",
+    "project_id": "hookup-chat-app",
+    "storage_bucket": "hookup-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451158197612:android:1819b19d989e7d89969f49",
+        "android_client_info": {
+          "package_name": "com.example.hook_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451158197612-3mm6skfcjrt4mq1fklv87rcggmj8sff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANzJz4H6Ukax9XUyvuO_0nbpTWLrVZ4k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451158197612-3mm6skfcjrt4mq1fklv87rcggmj8sff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

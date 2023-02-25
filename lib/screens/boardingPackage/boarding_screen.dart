@@ -26,6 +26,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
   Widget build(BuildContext context) {
     return Scaffold(
 
+
       body: Container(
 
         child: Column(
